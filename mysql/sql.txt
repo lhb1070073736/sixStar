@@ -1,0 +1,8 @@
+外网面板地址: http://43.154.101.186:8888/41e1a2f6
+内网面板地址: http://10.0.4.6:8888/41e1a2f6
+username: 5d2oq4wt
+password: 0f6c45c0
+
+宝塔password：LHB13858473672lhb
+
+tencent rootPassword：aA666666
